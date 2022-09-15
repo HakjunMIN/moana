@@ -48,12 +48,13 @@
       * Spring app in AKS Hands-on
    * Resilience 설계 / 코드 / 테스트
      * MSA간/내부 Resiliency, PaaS Connection Resiliency
-   * 12 Factor App 구현전략(디자인 워크샵 필요)
+   * 12 Factor App 리뷰
 
 6. Reference Arhitectures
     * Azure Spring Apps
         ![springapp architecture](images/refarchi-springapp.png)
         * https://github.com/Azure-Samples/azure-spring-cloud
+        * https://github.com/Azure-Samples/spring-petclinic-microservices
         * https://github.com/euchungmsft/spring-petclinic-microservices
     * Spring app in AKS
         ![AKS architecture](images/aks-production-deployment.png)
